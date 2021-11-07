@@ -1,0 +1,11 @@
+C:\Users\sabolc\source\repos\bevasarlo1\bevasarlo1\bin\Debug\bevasarlo1.exe.config
+C:\Users\sabolc\source\repos\bevasarlo1\bevasarlo1\bin\Debug\bevasarlo1.exe
+C:\Users\sabolc\source\repos\bevasarlo1\bevasarlo1\bin\Debug\bevasarlo1.pdb
+C:\Users\sabolc\source\repos\bevasarlo1\bevasarlo1\obj\Debug\bevasarlo1.csproj.AssemblyReference.cache
+C:\Users\sabolc\source\repos\bevasarlo1\bevasarlo1\obj\Debug\bevasarlo1.csproj.SuggestedBindingRedirects.cache
+C:\Users\sabolc\source\repos\bevasarlo1\bevasarlo1\obj\Debug\bevasarlo1.Form1.resources
+C:\Users\sabolc\source\repos\bevasarlo1\bevasarlo1\obj\Debug\bevasarlo1.Properties.Resources.resources
+C:\Users\sabolc\source\repos\bevasarlo1\bevasarlo1\obj\Debug\bevasarlo1.csproj.GenerateResource.cache
+C:\Users\sabolc\source\repos\bevasarlo1\bevasarlo1\obj\Debug\bevasarlo1.csproj.CoreCompileInputs.cache
+C:\Users\sabolc\source\repos\bevasarlo1\bevasarlo1\obj\Debug\bevasarlo1.exe
+C:\Users\sabolc\source\repos\bevasarlo1\bevasarlo1\obj\Debug\bevasarlo1.pdb
